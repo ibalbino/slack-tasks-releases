@@ -10,8 +10,8 @@ refuses files that aren't.
 
 Open the [latest release](../../releases/latest) and download, for your computer:
 
-- **Mac (Apple Silicon):** the `.dmg`, `Install Slack Tasks.command` and `How to install (Mac).txt`
-- **Windows:** the `-setup.exe`, `Install Slack Tasks (Windows).bat`, `install-windows.ps1` and
-  `How to install (Windows).txt`
+- **Mac (Apple Silicon):** the `.dmg`, `Install-Slack-Tasks.command` and `How-to-install-Mac.txt`
+- **Windows:** the `-setup.exe`, `Install-Slack-Tasks-Windows.bat`, `install-windows.ps1` and
+  `How-to-install-Windows.txt`
 
 Put them in one folder and follow the How to install file.
