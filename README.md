@@ -15,3 +15,6 @@ Open the [latest release](../../releases/latest) and download, for your computer
   `How-to-install-Windows.txt`
 
 Put them in one folder and follow the How to install file.
+
+New to Slack Tasks? **[Start here](GUIDE.md)**: install, connect your apps and make your first email
+report, on one page.
