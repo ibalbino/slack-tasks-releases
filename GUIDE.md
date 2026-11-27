@@ -1,4 +1,4 @@
-# Slack Tasks: start here
+# Ikidone: start here
 
 One page: install it, connect your apps, make your first email report. About 10 minutes.
 
@@ -14,13 +14,13 @@ One page: install it, connect your apps, make your first email report. About 10 
 Open the [latest release](https://github.com/ibalbino/slack-tasks-releases/releases/latest) and
 download the files for your computer into one folder.
 
-**Mac:** the `.dmg`, `Install-Slack-Tasks.command` and `How-to-install-Mac.txt`.
+**Mac:** the `.dmg`, `Install-Ikidone.command` and `How-to-install-Mac.txt`.
 
 1. Open Terminal (Command + Space, type Terminal, press Enter).
 2. Type `bash` and a space. Don't press Enter yet.
-3. Drag `Install-Slack-Tasks.command` into the Terminal window and press Enter.
+3. Drag `Install-Ikidone.command` into the Terminal window and press Enter.
 4. Answer each question with `y` or `n`.
-5. macOS will say Slack Tasks is from an unidentified developer. The installer opens the
+5. macOS will say Ikidone is from an unidentified developer. The installer opens the
    screen for it: in **System Settings > Privacy & Security**, click **Open Anyway**.
 
 **Windows:** the `-setup.exe`, `Install-Slack-Tasks-Windows.bat`, `install-windows.ps1` and
@@ -36,7 +36,7 @@ The app's updates are signed, and the app refuses any update that isn't.
 
 ## 2. Set it up
 
-Slack Tasks opens its setup window by itself.
+Ikidone opens its setup window by itself.
 
 1. **Claude:** sign in with your TFC Claude account.
 2. **Slack:** click **Open Claude connectors**, connect Slack there, come back and click **Check**.
@@ -79,5 +79,5 @@ checked. If a row says **Needs attention**, click **Check**.
 
 ## Updates
 
-Slack Tasks offers new versions by itself: click **Update** in its menu. After it restarts, a
+Ikidone offers new versions by itself: click **Update** in its menu. After it restarts, a
 box at the top says what changed.
